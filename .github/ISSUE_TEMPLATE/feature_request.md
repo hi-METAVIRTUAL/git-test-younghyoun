@@ -1,8 +1,8 @@
 ---
 name: Feature request
 about: Suggest an idea for this project
-title: ''
-labels: ''
+title: "[FEATURE]"
+labels: question
 assignees: ''
 
 ---
@@ -13,6 +13,6 @@ assignees: ''
 
 ## TODO's
 
-- [] todo A
-- [] todo B
-- [] todo C
+- [ ] todo A
+- [ ] todo B
+- [ ] todo C
